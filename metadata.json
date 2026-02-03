@@ -1,0 +1,5 @@
+{
+  "name": "Bradley County EMS Leave Manager",
+  "description": "A comprehensive leave tracking system for Bradley County EMS featuring seniority-based approvals, automatic accrual calculations, and shift-based scheduling.",
+  "requestFramePermissions": []
+}
